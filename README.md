@@ -12,3 +12,5 @@
 - ```setting1(state)```, ```setting2(state)``` and ```setting3(state)``` show three examples for an implementation
 - ```find_best()``` runs several settings for a different number of turns a returns the best parameters for a specific turn count
 - a plot shows the development of income, budget and lands of the player
+![Screenshot](example_plot.png)
+
