@@ -5,6 +5,8 @@
 - key idea is to find out which is the best strategy (building cities vs. units)
 - currently there is no interaction with other players
 
+---
+
 - call ```runSimulation(turn_behavior, turn_count)```
 - ```turn_behavior(state)``` is a reference to a method, which describes what the player does in a turn
 - ```setting1(state)```, ```setting2(state)``` and ```setting3(state)``` show three examples for an implementation
